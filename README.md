@@ -15,4 +15,6 @@ git commit -sm "update wiki and add js info"
 git push origin master
 ```
 
+> Note: any time you are creating a link in the markdown, make sure that you link to the file _minus the extension_. For example: `/the-greatest-wiki/docs/lang/javascript/index`. If you include the `.md`, GitHub will show the raw markdown underneath it instead of the nice rendered page.
+
 To edit the landing page, you'll just need to modify index.html directly.
