@@ -6,9 +6,9 @@ The focus of Kenzie's Q3 and Q4!
 
 ### General Python Issues
 
-- [cannot find module _sqlite3](/the-greatest-wiki/docs/lang/python/cannot_find_sqlite3)
+- [cannot find module _sqlite3](/the-greatest-wiki/lang/python/cannot_find_sqlite3)
 
 ### Django
 
-- [example page](/the-greatest-wiki/docs/lang/javascript/a)
-- [example page 2](/the-greatest-wiki/docs/lang/javascript/b)
+- [example page](/the-greatest-wiki/lang/python/a)
+- [example page 2](/the-greatest-wiki/lang/python/b)

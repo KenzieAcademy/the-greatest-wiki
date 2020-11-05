@@ -11,4 +11,4 @@ print(x**4)
 
 This is more testing text.
 
-![Party popper!](/the-greatest-wiki/docs/images/party-popper.png)
+![Party popper!](/the-greatest-wiki/images/party-popper.png)
