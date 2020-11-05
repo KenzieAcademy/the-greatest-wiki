@@ -6,7 +6,7 @@ Python was compiled without the optional extra libraries. You'll need to install
 
 Take a look at [this page](https://github.com/pyenv/pyenv/wiki/common-build-problems) for the recommended list of prerequisites to install for Python to work correctly and install the appropriate options for your operating system. After that, you'll need to force `pyenv` to recompile the problematic version of Python:
 
-```shell script
+```sh
 # Here, we're assuming the issue is with python 3.9.0
 pyenv install 3.9.0 --force
 ```
