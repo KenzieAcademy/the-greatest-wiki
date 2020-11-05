@@ -1,0 +1,21 @@
+# [TITLE]
+
+This is where you can write about a specific issue or collection of issues (separated by operating system) that a student may run into. You can include code with three backticks and the type of language, like this:
+
+```python
+print("Hello, world!")
+```
+
+```javascript
+console.log("Hello, world!")
+```
+
+```sh
+echo "Hello, world!"
+```
+
+If you need to include a screenshot, add your image to `docs/images/` and link to it by using standard markdown syntax:
+
+`![Party popper!](/docs/images/party-popper.png)`
+
+![Party popper!](/docs/images/party-popper.png)
